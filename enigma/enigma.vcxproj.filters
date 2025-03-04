@@ -15,21 +15,27 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Source.cpp">
+    <ClCompile Include="RotorManager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Rotor.cpp">
+    <ClCompile Include="Plugboard.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Plugboard.cpp">
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Rotor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Plugboard.h">
+    <ClInclude Include="RotorManager.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Rotor.h">
+    <ClInclude Include="Plugboard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Rotor.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

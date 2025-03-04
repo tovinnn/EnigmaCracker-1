@@ -4,6 +4,7 @@ class Plugboard
 {
 private:
 	char plugPairs[10][2];
+	int pairNum;
 
 public:
 	//constructor
